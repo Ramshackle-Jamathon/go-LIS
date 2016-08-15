@@ -1,5 +1,5 @@
 # go-LIS
-Longest Increaseing Subsequence implemented in Go, runs in O(n log n)
+Longest Increasing Subsequence implemented in Go, runs in O(n log n)
 
 ## Example
 
